@@ -3,8 +3,9 @@
 
 
 ## About Me
-Future Delevoper. Still new to programming/coding.
+Future Delevoper
 
-## Programming languages 
-*  Python, JavaScript, C#
+## Programming languages:
+Interest:
+*  Python(Flask), JavaScript(React or Vue), C#(Unity), and C/C++.
 
